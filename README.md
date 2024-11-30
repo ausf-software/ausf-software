@@ -18,12 +18,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/opengl/5586A4" height="30" alt="opengl logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="30" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/inkscape/000000" height="30" alt="inkscape logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
